@@ -92,7 +92,7 @@ The type of climate data you will be using greatly depends on the period of time
 
 ## Observations
 
-## Direct observations
+### Direct observations
 
 These are measurements (from ground stations, buoys, satellites, etc.) of one or more physical variables (temperature, humidity, wind, etc.) at one or more particular times and places. 
 
@@ -102,7 +102,7 @@ Source: https://uls.climate.copernicus.eu
 
 ---
 
-## Indirect observations
+### Indirect observations
 
 They are derived from other observations:
 - ice cores
@@ -202,14 +202,40 @@ population, economic growth and urbanization.
 
 **Not all the variables/parameters are necessarily relevant for your study**
 
-- Prioritize the use of [Essential Climate Variables](https://gcos.wmo.int/en/essential-climate-variables/about) (as we know they critically contributes to the characterization of Earth’ s climate).
+- Prioritize the use of [Essential Climate Variables](https://gcos.wmo.int/en/essential-climate-variables/about) (as we know they critically contribute to the characterization of Earth’ s climate).
 
 **Not all the variables are reliable**
 
-- For instance, temperature is usually reliable but not precipitation
+- For instance, temperature is usually reliable but precipitation is more difficult to estimate
 - Prioritize observations and re-analyses for past climate
 
 **Prefer authoritative data providers**
+
+---
+
+## Datasets
+
+- Downloaded from [European Copernicus Climate Change Service (C3S)](https://climate.copernicus.eu/): free of use. To download new datasets, you need to [register](https://cds.climate.copernicus.eu/user/login?destination=%2F%23!%2Fhome) (free).
+- Data format:
+	- The most common data format for Climate data is called [netCDF](https://www.unidata.ucar.edu/software/netcdf/) e.g. Network Common Data Form
+	- But for the sake of convenience, we already downloaded the datasets from Copernicus Climate Data Store, pre-processed and converted them to *csv*/*tabular* format
+
+- Available on [zenodo](https://zenodo.org/record/3776500#.XxHg-p4zY2w) for this tutorial:
+	- [tg_ens_mean_0.1deg_reg_v20.0e_Paris_daily.csv](https://zenodo.org/record/3776500/files/tg_ens_mean_0.1deg_reg_v20.0e_Paris_daily.csv)
+	- [ts_cities.csv](https://zenodo.org/record/3776500/files/ts_cities.csv)
+
+---
+
+## Galaxy tools
+
+- **Select lines that match an expression**: *it can be used to search for a date*
+- **Datamash**: *it can be used to make simple statistics (mean, minimum, maximum)*
+- **Text reformatting with awk**: *to split a column for instance a date so we can group per month or per year.*
+- **Scatterplot w ggplot2**: *to make a plot*
+- **climate stripes from timeseries**: *to visualize climate trend (on a timeserie)*
+- **Copernicus Essential Climate Variables**: *to download dataset (netCDF format) from Copernicus Climate*
+- **map plot gridded (lat/lon) netCDF data**: *to visualize netCDF data on a geographical map*
+- **NetCDF xarray Metadata Info**: *to get the list of variables from a netCDF data file.*
 
 ---
 
@@ -222,32 +248,6 @@ population, economic growth and urbanization.
 
 ---
 
-## Datasets
-
-- Downloaded from [European Copernicus Climate Change Service (C3S)](https://climate.copernicus.eu/): free of use. To download new datasets, you need to [register](https://cds.climate.copernicus.eu/user/login?destination=%2F%23!%2Fhome) (free).
-- Data format:
-	- Most common data format for Climate data is called [netCDF](https://www.unidata.ucar.edu/software/netcdf/) e.g. Network Common Data Form
-	- But to ease their usage, we pre-processed them and converted to *csv*/*tabular* data format
-
-- Available on [zenodo](https://zenodo.org/record/3776500#.XxHg-p4zY2w) for this tutorial:
-	- [tg_ens_mean_0.1deg_reg_v20.0e_Paris_daily.csv](https://zenodo.org/record/3776500/files/tg_ens_mean_0.1deg_reg_v20.0e_Paris_daily.csv)
-	- [ts_cities.csv](https://zenodo.org/record/3776500/files/ts_cities.csv)
-
----
-
-## Galaxy tools
-
-- Select lines that match an expression: *it can be used to search for a date*
-- Datamash: *it can be used to make simple statistics (mean, minimum, maximum)*
-- Text reformatting with awk: *to split a column for instance a date so we can group per month or per year.*
-- Scatterplot w ggplot2: *to make a plot*
-- climate stripes from timeseries: *to visualize climate trend (on a timeserie)*
-- Copernicus Essential Climate Variables: *to download dataset (netCDF format) from Copernicus Climate*
-- map plot gridded (lat/lon) netCDF data: *to visualize netCDF data on a geographical map*
-- NetCDF xarray Metadata Info: *to get the list of variables from a netCDF data file.*
-
----
-
 # Hands-on
 
 ## Collaborative document
@@ -257,4 +257,9 @@ We will be using a collaborative document:
 - where you can ask questions (always at the bottom of the document) that I or any of you can answer.
 
 ## Getting help
-- Use the "Get help table", share with others at your table
+- Use the "Get help table", ask others at your table
+
+## Break
+
+- We will make one break in about 1 hour
+

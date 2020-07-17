@@ -96,7 +96,7 @@ The type of climate data you will be using greatly depends on the period of time
 
 These are measurements (from ground stations, buoys, satellites, etc.) of one or more physical variables (temperature, humidity, wind, etc.) at one or more particular times and places. 
 
-<img src="https://nordicesmhub.github.io/climate-data-tutorial/fig/WMO%20Global%20Observing%20System.png" width="60%" />
+<img src="https://nordicesmhub.github.io/climate-data-tutorial/fig/WMO%20Global%20Observing%20System.png" width="55%" />
 
 Source: https://uls.climate.copernicus.eu
 
@@ -121,19 +121,19 @@ Source: https://www.earth.columbia.edu
 
 Numerical models are a mathematical representation of the climate developed by scientists to understand and predict the climate system. 
 
-<img src="https://www.climate.gov/sites/default/files/AtmosphericModelSchematic.png" width="60%"/>
+<img src="https://www.climate.gov/sites/default/files/AtmosphericModelSchematic.png" width="55%"/>
 
 Source: [https://www.climate.gov/maps-data/primer/climate-models](https://www.climate.gov/maps-data/primer/climate-models)
 
 ---
 
-# Re-analyses
+## Re-analyses
 
 A climate re-analysis is produced by combining numerical models with observations so it can only provide information about the past climate. It contains estimates of the air temperature, wind at different altitudes, rainfall, soil moisture content, etc.
 The estimates are produced for all locations on earth, and they span a long time period that can extend back decades or more.
 
 
-# Climate models
+## Climate models
 
 Various types of models are used for different aspects of the climate. 
 All have different ways to represent the real world, depending on how researchers prioritize and perform these simplifications (in terms of parameterizations, etc.) in the numerical climate model.
@@ -144,9 +144,9 @@ All have different ways to represent the real world, depending on how researcher
 
 ---
 
-# Climate prediction *vs.* projection
+## Climate prediction *vs.* projection
 
-## Climate prediction
+### Climate prediction
 
 A **climate prediction** (or climate forecast) is an attempt to produce an estimate of the actual evolution of the natural climate in the future, for example, at seasonal, inter-annual or long-term time scales. 
 

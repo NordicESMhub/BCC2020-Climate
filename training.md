@@ -193,6 +193,8 @@ would face in adapting to or mitigating climate change if that socioeconomic pat
 
 <img src="SSP_scenarios.png" width="105%" />
 
+Source: https://www.becc.lu.se/sites/becc.lu.se/files/climate_modelling_ralf_doscher.pdf
+
 ---
 
 # Where to start to get climate data?

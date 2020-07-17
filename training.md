@@ -83,10 +83,26 @@ The type of climate data you will be using greatly depends on the period of time
 - Re-analyses
 - Climate models
 
-<img src="https://nordicesmhub.github.io/climate-data-tutorial/fig/climate_data_types.png"/>
+<img src="https://nordicesmhub.github.io/climate-data-tutorial/fig/climate_data_types.png"  width="50% />
 
 ---
 
+## Observations
+
+
+---
+
+## Re-analyses
+
+
+---
+
+## Climate models
+
+
+---
+
+## Where to start
 
 *There is a wealth of data and information available about the past, current and future climate.*
 
@@ -98,7 +114,9 @@ The type of climate data you will be using greatly depends on the period of time
 
 - Prioritize the use of Essential Climate Variables
 
-**Not all the 
+**Not all the variables are reliable**
+
+- Prioritize observations and re-analyses for past climate
 
 ---
 

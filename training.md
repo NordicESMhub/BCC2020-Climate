@@ -33,7 +33,8 @@ We will be using a collaborative document:
 - so that I can follow your progress;
 - where you can ask questions (always at the bottom of the document) that I or any of you can answer.
 
---- 
+
+---
 
 ## Agenda
 

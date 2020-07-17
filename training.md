@@ -7,15 +7,15 @@ class: center, middle
 
 ---
 
-##  How we will operate?
+#  How we will operate?
 
-### Registration/Login to Galaxy Climate
+## Registration/Login to Galaxy Climate
 
 - We will be using Galaxy Climate https://usegalaxy.eu/ for this tutorial
 - If you have already registered to Galaxy Europe ([https://usegalaxy.eu/](https://usegalaxy.eu/) then you are ready to go
 - Otherwise, please register before we start at [https://usegalaxy.eu/login](https://usegalaxy.eu/login).
 
-### Join Climate training group
+## Join Climate training group
 
 - Please go to the following URL:
 
@@ -26,7 +26,7 @@ You will be added to the training group and put into a private queue which shoul
 
 ---
 
-## Agenda
+# Agenda
 
 
 - Practical organization
@@ -41,7 +41,7 @@ You will be added to the training group and put into a private queue which shoul
 
 ---
 
-## Practical organization
+# Practical organization
 
 - We will only use a web browser (Chrome is recommended)
 - and have 4 tabs:
@@ -54,7 +54,7 @@ That's already a lot to manage on a single screen therefore I recommend to close
 
 ---
 
-## What we mean by "Climate"?
+# What we mean by "Climate"?
 
 <img src="word_cloud.png" width="50%" />
 
@@ -65,7 +65,7 @@ To make sure we all have the same understanding:
 
 ---
 
-## Weather versus climate
+# Weather versus climate
 
 Watch [this Video](https://youtu.be/e0vj-0imOLw) to get an illustration of the difference between climate and weather.
 
@@ -76,7 +76,7 @@ Source: [Animated short on statistics](https://youtu.be/e0vj-0imOLw) from Norweg
 
 ---
 
-## Types of climate data resources
+# Types of climate data resources
 
 - Observations
 - Re-analyses
@@ -90,9 +90,9 @@ The type of climate data you will be using greatly depends on the period of time
 
 ---
 
-## Observations
+# Observations
 
-### Direct observations
+## Direct observations
 
 These are measurements (from ground stations, buoys, satellites, etc.) of one or more physical variables (temperature, humidity, wind, etc.) at one or more particular times and places. 
 
@@ -102,7 +102,7 @@ Source: https://uls.climate.copernicus.eu
 
 ---
 
-### Indirect observations
+## Indirect observations
 
 They are derived from other observations:
 - ice cores
@@ -117,7 +117,7 @@ Source: https://www.earth.columbia.edu
 
 ---
 
-## Models
+# Models
 
 Numerical models are a mathematical representation of the climate developed by scientists to understand and predict the climate system. 
 
@@ -127,30 +127,30 @@ Source: [https://www.climate.gov/maps-data/primer/climate-models](https://www.cl
 
 ---
 
-## Re-analyses
+# Re-analyses
 
 A climate re-analysis is produced by combining numerical models with observations so it can only provide information about the past climate. It contains estimates of the air temperature, wind at different altitudes, rainfall, soil moisture content, etc.
 The estimates are produced for all locations on earth, and they span a long time period that can extend back decades or more.
 
 
-## Climate models
+# Climate models
 
 Various types of models are used for different aspects of the climate. 
 All have different ways to represent the real world, depending on how researchers prioritize and perform these simplifications (in terms of parameterizations, etc.) in the numerical climate model.
 
-### How good are climate models?
+## How good are climate models?
 
 - Climate models are improving but have "biases" so we usually do not use one model only but severals that we combine together: the collective results give a better overview of the real world than any single model.
 
 ---
 
-## Climate prediction *vs.* projection
+# Climate prediction *vs.* projection
 
-### Climate prediction
+## Climate prediction
 
 A **climate prediction** (or climate forecast) is an attempt to produce an estimate of the actual evolution of the natural climate in the future, for example, at seasonal, inter-annual or long-term time scales. 
 
-### Climate projections
+## Climate projections
 
 **Climate projections** are distinct from climate predictions in that projections depend upon emission/concentration/radiative forcing **scenarios**, which are based on assumptions concerning, for example, future socio-economic and technological developments that may or may not be realized and are therefore subject to substantial uncertainty.
 
@@ -158,7 +158,7 @@ Within the Coupled Model Intercomparison Project (CMIP), now in its 6th phase, p
 
 ---
 
-## Shared Socio-economic Pathway (SSP)
+# Shared Socio-economic Pathway (SSP)
 
 
 **= societal development pathway**
@@ -195,7 +195,7 @@ would face in adapting to or mitigating climate change if that socioeconomic pat
 
 ---
 
-## Where to start to get climate data?
+# Where to start to get climate data?
 
 *There is a wealth of data and information available on the **web** about the past, current and future climate.*
 
@@ -229,7 +229,7 @@ would face in adapting to or mitigating climate change if that socioeconomic pat
 
 ---
 
-## Galaxy tools
+# Galaxy tools
 
 - **Select lines that match an expression** (select): *it can be used to search for a date*
 - **Datamash**(datamash): *it can be used to make simple statistics (mean, minimum, maximum)*
@@ -244,7 +244,7 @@ To find one of these tool, search with the word in bracket.
 
 ---
 
-## Where can you find the training material in Remo
+# Where can you find the training material in Remo
 
 - Tutorial is available in Remo through <img src="docs.png" width="50%"/>
 - Slides are available in Remo through <img src="slides.png" width="50%"/>

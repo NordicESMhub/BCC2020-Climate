@@ -237,14 +237,14 @@ population, economic growth and urbanization.
 
 ## Galaxy tools
 
-- Select lines that match an expression: it can be used to search for a date
-- Datamash: it can be used to make simple statistics (mean, minimum, maximum)
-- Text reformatting with awk: to split a column for instance a date so we can group per month or per year.
-- Scatterplot w ggplot2: to make a plot
-- climate stripes from timeseries: to visualize climate trend (on a timeserie)
-- Copernicus Essential Climate Variables: to download dataset (netCDF format) from Copernicus Climate
-- map plot gridded (lat/lon) netCDF data: to visualize netCDF data on a geographical map
-- NetCDF xarray Metadata Info: to get the list of variables from a netCDF data file.
+- Select lines that match an expression: *it can be used to search for a date*
+- Datamash: *it can be used to make simple statistics (mean, minimum, maximum)*
+- Text reformatting with awk: *to split a column for instance a date so we can group per month or per year.*
+- Scatterplot w ggplot2: *to make a plot*
+- climate stripes from timeseries: *to visualize climate trend (on a timeserie)*
+- Copernicus Essential Climate Variables: *to download dataset (netCDF format) from Copernicus Climate*
+- map plot gridded (lat/lon) netCDF data: *to visualize netCDF data on a geographical map*
+- NetCDF xarray Metadata Info: *to get the list of variables from a netCDF data file.*
 
 ---
 
@@ -253,7 +253,8 @@ population, economic growth and urbanization.
 ## Collaborative document
 
 We will be using a collaborative document:
-- so that I can follow your progress (whenever I ask you)
+- so that I can follow your progress
 - where you can ask questions (always at the bottom of the document) that I or any of you can answer.
 
-
+## Getting help
+- Use the "Get help table", share with others at your table

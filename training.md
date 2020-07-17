@@ -29,15 +29,28 @@ You will be added to the training group and put into a private queue which shoul
 ## Agenda
 
 
+- Practical organization
 - Short presentation on the topic
 - Presentation of the training material [Getting your hands-on climate data](https://training.galaxyproject.org/training-material/topics/climate/tutorials/climate-101/tutorial.html)
 - Introduction of the datasets
 - Galaxy tools you can use for the hands-on
 - Hands-on exercises: 
-    - You work on the provided material, feel free to dicuss within others,
+    - You work on the provided material, feel free to discuss with others,
     - Use the collaborative document to indicate when you are done with an exercise,
-    - Should you have any problem, please use the *chat*,
-    - I have set-up a **get help table** that you can visit whenever you need individual support.
+    - Should you have any problem during exercises, go to the **get help table** to get individual support.
+
+---
+
+## Practical organization
+
+- We will only use a web browser (Chrome is recommended)
+- and have 4 tabs:
+	- one for remo
+	- one for the [training material](https://training.galaxyproject.org/training-material/topics/climate/tutorials/climate-101/tutorial.html) (hands-on)
+	- one for [galaxy Europe](https://usegalaxy.eu/)
+	- one for the shared document
+
+That's already a lot to manage on a single screen therefore I recommend to close all the windows except your browser.
 
 ---
 
@@ -116,7 +129,7 @@ Source: [https://www.climate.gov/maps-data/primer/climate-models](https://www.cl
 
 ## Re-analyses
 
-A climate re-analysis gives a numerical description of the recent climate, produced by combining models with observations. It contains estimates of the air temperature, wind at different altitudes, rainfall, soil moisture content, etc.
+A climate re-analysis is produced by combining numerical models with observations so it can only provide information about the past climate. It contains estimates of the air temperature, wind at different altitudes, rainfall, soil moisture content, etc.
 The estimates are produced for all locations on earth, and they span a long time period that can extend back decades or more.
 
 
@@ -124,12 +137,10 @@ The estimates are produced for all locations on earth, and they span a long time
 
 Various types of models are used for different aspects of the climate. 
 All have different ways to represent the real world, depending on how researchers prioritize and perform these simplifications (in terms of parameterizations, etc.) in the numerical climate model.
-We usually do not use one model only but severals that we combine together: the collective results give a better overview of the real world than any single model.
 
 ### How good are climate models?
 
-- Climate models are improving
-- Climate models have "biases"
+- Climate models are improving but have "biases" so we usually do not use one model only but severals that we combine together: the collective results give a better overview of the real world than any single model.
 
 ---
 
@@ -162,15 +173,15 @@ population, economic growth and urbanization.
 
 ## SSPs and Shared Policy Assumptions (SPAs)
 
-- [SSP1 Sustainability](https://en.wikipedia.org/wiki/Shared_Socioeconomic_Pathways#SSP1:_Sustainability_(Taking_the_Green_Road)): Taking the Green Road e.g. low challenges to mitigation and adaptation
+- <a href="https://en.wikipedia.org/wiki/Shared_Socioeconomic_Pathways#SSP1:_Sustainability_(Taking_the_Green_Road)">SSP1 Sustainability</a>: Taking the Green Road e.g. low challenges to mitigation and adaptation
 
-- [SSP2 Middle of the Road](https://en.wikipedia.org/wiki/Shared_Socioeconomic_Pathways#SSP2:_Middle_of_the_road):  Medium challenges to mitigation and adaptation
+- <a href="https://en.wikipedia.org/wiki/Shared_Socioeconomic_Pathways#SSP2:_Middle_of_the_road)">SSP2 Middle of the Road</a>:  Medium challenges to mitigation and adaptation
 
-- [SSP3	Regional Rivalry](https://en.wikipedia.org/wiki/Shared_Socioeconomic_Pathways#SSP3:_Regional_rivalry_(A_Rocky_Road)): A Rocky Road e.g high challenges to mitigation and adaptation
+- <a href="https://en.wikipedia.org/wiki/Shared_Socioeconomic_Pathways#SSP3:_Regional_rivalry_(A_Rocky_Road)">SSP3 Regional Rivalry</a>: A Rocky Road e.g high challenges to mitigation and adaptation
 
-- [SSP4	Inequality](https://en.wikipedia.org/wiki/Shared_Socioeconomic_Pathways#SSP4:_Inequality_(A_Road_Divided)): A Road Divided e.g. low challenges to mitigation, high challenges to adaptation
+- <a href="https://en.wikipedia.org/wiki/Shared_Socioeconomic_Pathways#SSP4:_Inequality_(A_Road_Divided)">SSP4 Inequality</a>: A Road Divided e.g. low challenges to mitigation, high challenges to adaptation
 
-- [SSP5	Fossil-fueled Development](https://en.wikipedia.org/wiki/Shared_Socioeconomic_Pathways#SSP5:_Fossil-Fueled_Development_(Taking_the_Highway)): Taking the Highway e.g. high challenges to mitigation, low challenges to adaptation
+- <a href="https://en.wikipedia.org/wiki/Shared_Socioeconomic_Pathways#SSP5:_Fossil-Fueled_Development_(Taking_the_Highway)">SSP5 Fossil-fueled Development</a>: Taking the Highway e.g. high challenges to mitigation, low challenges to adaptation
 
 ---
 
@@ -181,7 +192,7 @@ population, economic growth and urbanization.
 
 ---
 
-## Where to start
+## Where to start to get climate data?
 
 *There is a wealth of data and information available on the **web** about the past, current and future climate.*
 
@@ -191,46 +202,49 @@ population, economic growth and urbanization.
 
 **Not all the variables/parameters are necessarily relevant for your study**
 
-- Prioritize the use of Essential Climate Variables
+- Prioritize the use of [Essential Climate Variables](https://gcos.wmo.int/en/essential-climate-variables/about) (as we know they critically contributes to the characterization of Earth’ s climate).
 
 **Not all the variables are reliable**
 
+- For instance, temperature is usually reliable but not precipitation
 - Prioritize observations and re-analyses for past climate
 
 **Prefer authoritative data providers**
 
 ---
 
-## Training material
+## Where can you find the training material in Remo
 
-- Tutorial is available through <img src="docs.png" />
-- Video with step by step tutorial on the left panel
-- Slides are available through <img src="slides.png" />
+- Tutorial is available in Remo through <img src="docs.png" width="50%"/>
+- Slides are available in Remo through <img src="slides.png" width="50%"/>
+
+- Video with step by step tutorial on the left panel. It can be used for the hands-on.
 
 ---
 
 ## Datasets
 
-- Downloaded from [European Copernicus Climate Change Service (C3S)](https://climate.copernicus.eu/)
+- Downloaded from [European Copernicus Climate Change Service (C3S)](https://climate.copernicus.eu/): free of use. To download new datasets, you need to [register](https://cds.climate.copernicus.eu/user/login?destination=%2F%23!%2Fhome) (free).
 - Data format:
 	- Most common data format for Climate data is called [netCDF](https://www.unidata.ucar.edu/software/netcdf/) e.g. Network Common Data Form
-	- But converted to *csv*/*tabular* data format to ease their usage
+	- But to ease their usage, we pre-processed them and converted to *csv*/*tabular* data format
 
-- [tg_ens_mean_0.1deg_reg_v20.0e_Paris_daily.csv](https://zenodo.org/record/3776500/files/tg_ens_mean_0.1deg_reg_v20.0e_Paris_daily.csv)
-- [ts_cities.csv](https://zenodo.org/record/3776500/files/ts_cities.csv)
+- Available on [zenodo](https://zenodo.org/record/3776500#.XxHg-p4zY2w) for this tutorial:
+	- [tg_ens_mean_0.1deg_reg_v20.0e_Paris_daily.csv](https://zenodo.org/record/3776500/files/tg_ens_mean_0.1deg_reg_v20.0e_Paris_daily.csv)
+	- [ts_cities.csv](https://zenodo.org/record/3776500/files/ts_cities.csv)
 
 ---
 
 ## Galaxy tools
 
-- Select lines that match an expression
-- Datamash
-- Text reformatting with awk
-- Scatterplot w ggplot2
-- climate stripes from timeseries
-- Copernicus Essential Climate Variables
-- map plot gridded (lat/lon) netCDF data
-- NetCDF xarray Metadata Info
+- Select lines that match an expression: it can be used to search for a date
+- Datamash: it can be used to make simple statistics (mean, minimum, maximum)
+- Text reformatting with awk: to split a column for instance a date so we can group per month or per year.
+- Scatterplot w ggplot2: to make a plot
+- climate stripes from timeseries: to visualize climate trend (on a timeserie)
+- Copernicus Essential Climate Variables: to download dataset (netCDF format) from Copernicus Climate
+- map plot gridded (lat/lon) netCDF data: to visualize netCDF data on a geographical map
+- NetCDF xarray Metadata Info: to get the list of variables from a netCDF data file.
 
 ---
 
@@ -239,6 +253,7 @@ population, economic growth and urbanization.
 ## Collaborative document
 
 We will be using a collaborative document:
-- where participants can introduce themselves
-- so that I can follow your progress
+- so that I can follow your progress (whenever I ask you)
 - where you can ask questions (always at the bottom of the document) that I or any of you can answer.
+
+

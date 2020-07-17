@@ -169,6 +169,9 @@ SSPs comprise **five alternative** narratives that describe the main characteris
 pathways in qualitative terms as well as quantitative descriptions for key elements including
 population, economic growth and urbanization.
 
+Different pathways are defined by the magnitude of the challenges a future society
+would face in adapting to or mitigating climate change if that socioeconomic pathway was pursued.
+
 ---
 
 ## SSPs and Shared Policy Assumptions (SPAs)

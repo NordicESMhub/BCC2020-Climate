@@ -121,7 +121,7 @@ Source: https://www.earth.columbia.edu
 
 Numerical models are a mathematical representation of the climate developed by scientists to understand and predict the climate system. 
 
-<img src="https://www.climate.gov/sites/default/files/AtmosphericModelSchematic.png" width="68%"/>
+<img src="https://www.climate.gov/sites/default/files/AtmosphericModelSchematic.png" width="60%"/>
 
 Source: [https://www.climate.gov/maps-data/primer/climate-models](https://www.climate.gov/maps-data/primer/climate-models)
 

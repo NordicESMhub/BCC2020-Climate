@@ -140,7 +140,7 @@ All have different ways to represent the real world, depending on how researcher
 
 ## How good are climate models?
 
-- Climate models are improving but have "biases" so we usually do not use one model only but severals that we combine together: the collective results give a better overview of the real world than any single model.
+Climate models are improving but have "biases" so we usually do not use one model only but severals that we combine together: the collective results give a better overview of the real world than any single model.
 
 ---
 

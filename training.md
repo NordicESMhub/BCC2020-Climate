@@ -55,7 +55,7 @@ We will be using a collaborative document:
 
 ## What we mean by "Climate"?
 
-<img src="word_cloud.png"/>
+<img src="word_cloud.png" width="50%" />
 
 To make sure we all have the same understanding:
 
@@ -69,7 +69,7 @@ To make sure we all have the same understanding:
 
 Watch [this Video](https://youtu.be/e0vj-0imOLw) to get an illustration of the difference between climate and weather.
 
-
+<img src="https://training.galaxyproject.org/training-material/topics/climate/images/weather_versus_climate.png" width="80%" />
 
 ---
 
@@ -83,22 +83,118 @@ The type of climate data you will be using greatly depends on the period of time
 - Re-analyses
 - Climate models
 
-<img src="https://nordicesmhub.github.io/climate-data-tutorial/fig/climate_data_types.png"  width="50% />
+<img src="https://nordicesmhub.github.io/climate-data-tutorial/fig/climate_data_types.png"  width="50%" />
 
 ---
 
 ## Observations
 
+Observations can be direct or indirect.
+
+## Direct observations
+
+These are measurements (from ground stations, buoys, satellites, etc.) of the occurrence of one or more physical variables (temperature, humidity, wind, etc.) at one or more particular times and places in and on the atmosphere, ocean, etc. 
+
+Observations are described as **direct** when a physical parameter is measured directly, for example temperature or pressure at a land station. The sensors themselves can be either in-situ (hence providing information about their immediate environment) or remote (in which case they are able to measure over distances that extend significantly beyond the location of the instrument itself).
+
+## Indirect observations
+
+Observations are described as **indirect** when they are derived from other observations, for example information related to past climate (these are sometimes referred to as "climate proxies") can be inferred from tree rings (dendrochronology), lake sediments (varves) or ice cores.
+
 
 ---
 
+## Models
+
+Numerical models are a mathematical representation of the climate developed by scientists to understand and predict the climate system. 
+In order to be able to do this, the models divide the earth, ocean and atmosphere into one (or more) grid(s). The values of the predicted variables, such as surface pressure, wind, temperature, humidity and rainfall are calculated at each grid point over time, to predict their future values.
+
+
+<img src="https://www.climate.gov/sites/default/files/AtmosphericModelSchematic.png" width="70%"/>
+*Source: [https://www.climate.gov/maps-data/primer/climate-models](https://www.climate.gov/maps-data/primer/climate-models)*
+
 ## Re-analyses
 
+A climate re-analysis gives a numerical description of the recent climate, produced by combining models with observations. It contains estimates of atmospheric parameters such as air temperature, pressure and wind at different altitudes, and surface parameters such as rainfall, soil moisture content, and sea-surface temperature. The estimates are produced for all locations on earth, and they span a long time period that can extend back decades or more.
 
 ---
 
 ## Climate models
 
+Various types of models are used to analyse different aspects of the climate. 
+All have different ways to represent the real world, depending on how researchers prioritize and perform these simplifications (in terms of parameterizations, etc.) in the numerical climate model.
+They will all provide different outputs but the collective results give a better overview of the real world than any single model.
+
+---
+
+## Climate prediction *vs.* projection
+
+### Climate prediction
+
+A **climate prediction** (or climate forecast) is an attempt to produce an estimate of the actual evolution of the natural climate in the future, for example, at seasonal, inter-annual or long-term time scales. Since the future evolution of the climate system may be highly sensitive to initial conditions, such predictions are usually probabilistic in nature.
+
+### Climate projections
+
+**Climate projections** are distinct from climate predictions in that projections depend upon emission/concentration/radiative forcing **scenarios**, which are based on assumptions concerning, for example, future socio-economic and technological developments that may or may not be realized and are therefore subject to substantial uncertainty.
+
+Within the Coupled Model Intercomparison Project (CMIP), now in its 6th phase, project simulations of the research community provide model output that will fuel climate research and climate impact studies for the next 5 to 10 years, while its careful analysis will form the basis for future climate assessments
+
+---
+
+## Shared Socio-economic Pathway (SSP)
+
+
+= societal development pathway
+
+The SSPs were developed as a joint community effort and describe global developments that
+together would lead to different challenges for mitigation and adaptation to climate change.
+SSPs comprise five alternative narratives that describe the main characteristics of the
+pathways in qualitative terms as well as quantitative descriptions for key elements including
+population, economic growth and urbanization
+
+-- 
+
+## SSP narratives
+
+### SSP1	Sustainability
+
+- Taking the Green Road (Low challenges to mitigation and adaptation)
+
+The world shifts gradually, but pervasively, toward a more sustainable path, emphasizing more inclusive development that respects perceived environmental boundaries. Management of the global commons slowly improves, educational and health investments accelerate the demographic transition, and the emphasis on economic growth shifts toward a broader emphasis on human well-being. Driven by an increasing commitment to achieving development goals, inequality is reduced both across and within countries. Consumption is oriented toward low material growth and lower resource and energy intensity.
+
+### SSP2	Middle of the Road (Medium challenges to mitigation and adaptation)
+
+The world follows a path in which social, economic, and technological trends do not shift markedly from historical patterns. Development and income growth proceeds unevenly, with some countries making relatively good progress while others fall short of expectations. Global and national institutions work toward but make slow progress in achieving sustainable development goals. Environmental systems experience degradation, although there are some improvements and overall the intensity of resource and energy use declines. Global population growth is moderate and levels off in the second half of the century. Income inequality persists or improves only slowly and challenges to reducing vulnerability to societal and environmental changes remain.
+
+### SSP3	Regional Rivalry
+
+A Rocky Road (High challenges to mitigation and adaptation)
+
+A resurgent nationalism, concerns about competitiveness and security, and regional conflicts push countries to increasingly focus on domestic or, at most, regional issues. Policies shift over time to become increasingly oriented toward national and regional security issues. Countries focus on achieving energy and food security goals within their own regions at the expense of broader-based development. Investments in education and technological development decline. Economic development is slow, consumption is material-intensive, and inequalities persist or worsen over time. Population growth is low in industrialized and high in developing countries. A low international priority for addressing environmental concerns leads to strong environmental degradation in some regions.
+
+### SSP4	Inequality 
+
+A Road Divided (Low challenges to mitigation, high challenges to adaptation)
+Highly unequal investments in human capital, combined with increasing disparities in economic opportunity and political power, lead to increasing inequalities and stratification both across and within countries. Over time, a gap widens between an internationally-connected society that contributes to knowledge- and capital-intensive sectors of the global economy, and a fragmented collection of lower-income, poorly educated societies that work in a labor intensive, low-tech economy. Social cohesion degrades and conflict and unrest become increasingly common. Technology development is high in the high-tech economy and sectors. The globally connected energy sector diversifies, with investments in both carbon-intensive fuels like coal and unconventional oil, but also low-carbon energy sources. Environmental policies focus on local issues around middle and high income areas.
+
+### SSP5	Fossil-fueled Development 
+
+Taking the Highway (High challenges to mitigation, low challenges to adaptation)
+
+This world places increasing faith in competitive markets, innovation and participatory societies to produce rapid technological progress and development of human capital as the path to sustainable development. Global markets are increasingly integrated. There are also strong investments in health, education, and institutions to enhance human and social capital. At the same time, the push for economic and social development is coupled with the exploitation of abundant fossil fuel resources and the adoption of resource and energy intensive lifestyles around the world. All these factors lead to rapid growth of the global economy, while global population peaks and declines in the 21st century. Local environmental problems like air pollution are successfully managed. There is faith in the ability to effectively manage social and ecological systems, including by geo-engineering if necessary.
+
+---
+
+<img src="SSP_scenarios.png" width="80%" />
+
+---
+
+## How good are climate models?
+
+- Climate models are improving
+- Climate models have "biases"
+
+--> We usually use several models together (multi-models)
 
 ---
 

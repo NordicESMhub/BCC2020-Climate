@@ -89,13 +89,13 @@ The type of climate data you will be using greatly depends on the period of time
 
 ## Observations
 
-Observations can be direct or indirect.
-
 ## Direct observations
 
 These are measurements (from ground stations, buoys, satellites, etc.) of the occurrence of one or more physical variables (temperature, humidity, wind, etc.) at one or more particular times and places in and on the atmosphere, ocean, etc. 
 
-Observations are described as **direct** when a physical parameter is measured directly, for example temperature or pressure at a land station. The sensors themselves can be either in-situ (hence providing information about their immediate environment) or remote (in which case they are able to measure over distances that extend significantly beyond the location of the instrument itself).
+<img src="https://nordicesmhub.github.io/climate-data-tutorial/fig/WMO%20Global%20Observing%20System.png" width="50%" />
+
+Source: https://uls.climate.copernicus.eu
 
 ---
 
@@ -103,6 +103,10 @@ Observations are described as **direct** when a physical parameter is measured d
 
 Observations are described as **indirect** when they are derived from other observations, for example information related to past climate (these are sometimes referred to as "climate proxies") can be inferred from tree rings (dendrochronology), lake sediments (varves) or ice cores.
 
+
+<img src="https://nordicesmhub.github.io/climate-data-tutorial/fig/frost_rings_375.jpg" width="50%" />
+
+Source: https://www.earth.columbia.edu
 
 ---
 

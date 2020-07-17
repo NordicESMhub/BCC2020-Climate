@@ -69,7 +69,7 @@ To make sure we all have the same understanding:
 
 Watch [this Video](https://youtu.be/e0vj-0imOLw) to get an illustration of the difference between climate and weather.
 
-<img src="https://training.galaxyproject.org/training-material/topics/climate/images/weather_versus_climate.png" width="80%" />
+<img src="https://training.galaxyproject.org/training-material/topics/climate/images/weather_versus_climate.png" width="75%" />
 
 Source: [Animated short on statistics](https://youtu.be/e0vj-0imOLw) from Norwegian infotainment program Siffer. Produced by TeddyTV for NRK. Animation by Ole Christoffer Haga
 
@@ -150,7 +150,7 @@ All have different ways to represent the real world, depending on how researcher
 
 A **climate prediction** (or climate forecast) is an attempt to produce an estimate of the actual evolution of the natural climate in the future, for example, at seasonal, inter-annual or long-term time scales. 
 
-## Climate projections
+### Climate projections
 
 **Climate projections** are distinct from climate predictions in that projections depend upon emission/concentration/radiative forcing **scenarios**, which are based on assumptions concerning, for example, future socio-economic and technological developments that may or may not be realized and are therefore subject to substantial uncertainty.
 

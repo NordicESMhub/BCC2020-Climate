@@ -9,7 +9,7 @@ class: center, middle
 ## Registration/Login to Galaxy Climate
 
 - We will be using Galaxy Climate https://climate.usegalaxy.eu/ for this tutorial. 
-- If you have already registered to Galaxy Europe ([https://usegalaxy.eu/](https://usegalaxy.eu/)) then you are ready to go
+- If you have already registered to Galaxy Europe ([https://usegalaxy.eu/](https://usegalaxy.eu/) then you are ready to go
 - Otherwise, please register before we start at [https://usegalaxy.eu/login](https://usegalaxy.eu/login)
 
 ---

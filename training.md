@@ -231,14 +231,16 @@ would face in adapting to or mitigating climate change if that socioeconomic pat
 
 ## Galaxy tools
 
-- **Select lines that match an expression**: *it can be used to search for a date*
-- **Datamash**: *it can be used to make simple statistics (mean, minimum, maximum)*
-- **Text reformatting with awk**: *to split a column for instance a date so we can group per month or per year.*
-- **Scatterplot w ggplot2**: *to make a plot*
-- **climate stripes from timeseries**: *to visualize climate trend (on a timeserie)*
-- **Copernicus Essential Climate Variables**: *to download dataset (netCDF format) from Copernicus Climate*
-- **map plot gridded (lat/lon) netCDF data**: *to visualize netCDF data on a geographical map*
-- **NetCDF xarray Metadata Info**: *to get the list of variables from a netCDF data file.*
+- **Select lines that match an expression** (select): *it can be used to search for a date*
+- **Datamash**(datamash): *it can be used to make simple statistics (mean, minimum, maximum)*
+- **Text reformatting with awk**(awk): *to split a column for instance a date so we can group per month or per year.*
+- **Scatterplot w ggplot2**(ggplot2): *to make a plot*
+- **climate stripes from timeseries**(stripes): *to visualize climate trend (on a timeserie)*
+- **Copernicus Essential Climate Variables**(copernicus): *to download dataset (netCDF format) from Copernicus Climate*
+- **map plot gridded (lat/lon) netCDF data**(netcdf): *to visualize netCDF data on a geographical map*
+- **NetCDF xarray Metadata Info**(xarray): *to get the list of variables from a netCDF data file.*
+
+To find one of these tool, search with the word in bracket.
 
 ---
 

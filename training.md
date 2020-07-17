@@ -154,7 +154,7 @@ SSPs comprise five alternative narratives that describe the main characteristics
 pathways in qualitative terms as well as quantitative descriptions for key elements including
 population, economic growth and urbanization
 
---- 
+---
 
 ## SSP narratives
 

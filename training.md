@@ -111,7 +111,7 @@ They are derived from other observations:
 
 These are sometimes referred to as "climate proxies"
 
-<img src="https://nordicesmhub.github.io/climate-data-tutorial/fig/frost_rings_375.jpg" width="20%" />
+<img src="https://nordicesmhub.github.io/climate-data-tutorial/fig/frost_rings_375.jpg" width="30%" />
 
 Source: https://www.earth.columbia.edu
 
@@ -213,7 +213,7 @@ population, economic growth and urbanization.
 
 ---
 
-## Datasets
+# Datasets
 
 - Downloaded from [European Copernicus Climate Change Service (C3S)](https://climate.copernicus.eu/): free of use. To download new datasets, you need to [register](https://cds.climate.copernicus.eu/user/login?destination=%2F%23!%2Fhome) (free).
 - Data format:

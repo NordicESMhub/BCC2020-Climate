@@ -37,7 +37,7 @@ You will be added to the training group and put into a private queue which shoul
 - Hands-on exercises: 
     - You work on the provided material, feel free to discuss with others,
     - Use the collaborative document to indicate when you are done with an exercise,
-    - Should you have any problem during exercises, go to the **get help table** to get individual support.
+    - Should you have any problem during exercises, use the chat in remo.
 
 ---
 
@@ -221,6 +221,8 @@ Source: https://www.becc.lu.se/sites/becc.lu.se/files/climate_modelling_ralf_dos
 # Datasets
 
 - Downloaded from [European Copernicus Climate Change Service (C3S)](https://climate.copernicus.eu/): free of use. To download new datasets, you need to [register](https://cds.climate.copernicus.eu/user/login?destination=%2F%23!%2Fhome) (free).
+	- resolution: 0.1 x 0.1 degrees 
+	- gridded observations e.g. combine different observations and interpolate on a grid 
 - Data format:
 	- The most common data format for Climate data is called [netCDF](https://www.unidata.ucar.edu/software/netcdf/) e.g. Network Common Data Form
 	- But for the sake of convenience, we already downloaded the datasets from Copernicus Climate Data Store, pre-processed and converted them to *csv*/*tabular* format
@@ -264,7 +266,7 @@ We will be using a collaborative document:
 - where you can ask questions (always at the bottom of the document) that I or any of you can answer.
 
 ## Getting help
-- Use the "Get help table", ask others at your table
+- Use the chat in remo, ask others at your table
 
 ## Break
 

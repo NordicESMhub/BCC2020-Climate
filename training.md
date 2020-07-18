@@ -250,8 +250,8 @@ To find one of these tool, search with the word in bracket.
 
 # Where can you find the training material in Remo
 
-- [Tutorial](https://training.galaxyproject.org/training-material/topics/climate/tutorials/climate-101/tutorial.html) is available in Remo through <img src="docs.png" width="50%"/>
-- [Slides](https://cicero.xyz/v3/remark/0.14.0/github.com/NordicESMHub/BCC2020-Climate/master/training.md/) are available in Remo through <img src="slides.png" width="50%"/>
+- [Tutorial](https://training.galaxyproject.org/training-material/topics/climate/tutorials/climate-101/tutorial.html) is available in Remo through <img src="https://github.com/NordicESMhub/BCC2020-Climate/blob/master/docs.png?raw=true" width="50%"/>
+- [Slides](https://cicero.xyz/v3/remark/0.14.0/github.com/NordicESMHub/BCC2020-Climate/master/training.md/) are available in Remo through <img src="https://github.com/NordicESMhub/BCC2020-Climate/blob/master/slides.png?raw=true" width="50%"/>
 
 - Video with [step by step tutorial](https://vimeo.com/439167967) on the left panel. It can be used for the hands-on.
 

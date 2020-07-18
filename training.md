@@ -221,8 +221,8 @@ Source: https://www.becc.lu.se/sites/becc.lu.se/files/climate_modelling_ralf_dos
 # Datasets
 
 - Downloaded from [European Copernicus Climate Change Service (C3S)](https://climate.copernicus.eu/): free of use. To download new datasets, you need to [register](https://cds.climate.copernicus.eu/user/login?destination=%2F%23!%2Fhome) (free).
-	- resolution: 0.1 x 0.1 degrees 
 	- gridded observations e.g. combine different observations and interpolate on a grid 
+	- resolution: 0.1 x 0.1 degrees 
 - Data format:
 	- The most common data format for Climate data is called [netCDF](https://www.unidata.ucar.edu/software/netcdf/) e.g. Network Common Data Form
 	- But for the sake of convenience, we already downloaded the datasets from Copernicus Climate Data Store, pre-processed and converted them to *csv*/*tabular* format

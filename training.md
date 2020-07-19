@@ -257,7 +257,7 @@ To find one of these tool, search with the word in bracket.
 
 ---
 
-<img src="how_to_proceed.png" width="50%" />
+<img src="how_to_proceed.png" width="85%" />
 
 ---
 

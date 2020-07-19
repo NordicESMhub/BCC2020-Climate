@@ -257,6 +257,8 @@ To find one of these tool, search with the word in bracket.
 
 ---
 
+# All you need to start
+
 <img src="how_to_proceed.png" width="100%" />
 
 ---
